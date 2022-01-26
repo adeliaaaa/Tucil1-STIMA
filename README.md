@@ -2,8 +2,8 @@
 Disusun untuk Tugas Kecil 1 IF2211 Strategi Algoritma.
 
 ## Requirements
-gcc 11.2
-Consoles that support ANSI escape code (contoh: Visual Studio Code)
+gcc 11.2.
+Consoles that support ANSI escape code (contoh: Visual Studio Code).
 
 ## Penjelasan Ringkas Program
 Program ini adalah program untuk mencari solusi dari sebuah word search puzzle melalui algoritma brute force. Program akan menerima sebuah file `.txt` yang berisi puzzle dan kata yang akan dicari. Output dari program adalah puzzle yang sudah terjawab dengan jawabannya diberi warna. Selain itu, akan menampilkan waktu eksekusi algoritma pencarian kata dan juga jumlah total perbandingan huruf yang dilakukan untuk menemukan kata di dalam puzzle.
